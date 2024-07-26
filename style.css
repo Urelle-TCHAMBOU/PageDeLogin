@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    }
+    .submit :hover{
+    background-color: aquamarine;
+    border-radius: 8px;
+
+    }
+
+
+
+
+body{
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
